@@ -1,4 +1,4 @@
-# Mapbox
+# Mapbox 🗺️
 In this lesson, we're going to explore how to add interactive maps to your Ruby on Rails application using Mapbox, a powerful mapping and location service. Adding maps can enhance the user experience significantly, allowing you to display location-based data, create route navigations, show geographical data, and much more. By the end of this lesson, you will know how to embed a Mapbox map into your Rails application, customize it to display multiple locations, and interact with it using JavaScript.
 
 ## Getting Started
