@@ -32,7 +32,7 @@ import mapboxgl from 'https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.js';
 mapboxgl.accessToken = 'YOUR_MAPBOX_ACCESS_TOKEN';
 ```
 
-Replace 'YOUR_MAPBOX_ACCESS_TOKEN' with your actual Mapbox access token.
+Replace 'YOUR_MAPBOX_ACCESS_TOKEN' with your actual Mapbox access token. Remember to only paste your access token into your code in development and to use environment variables before commiting or pushing code to GitHub.
 
 ## Embed a Mapbox Map into a View
 Now, let's add a Mapbox map to one of your views. For example, in app/views/places/index.html.erb, you could add:
